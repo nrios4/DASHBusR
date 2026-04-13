@@ -1,0 +1,51 @@
+"","Bus.Stop.1","Bus.Stop.2","Bus.Stop.3","Bus.Stop.4","Bus.Stop.5","Bus.Stop.6","Bus.Stop.7","bus_size","temperature"
+"1","Cameron Mills Dr","Braddock Metro","Old Town Circulator","King St Metro","Eisenhower","Van Dorn Metro","Yoakum Pkwy",-1,1
+"2","Parkfairfax","Cameron Mills Dr","Braddock Metro","Old Town Circulator","King St Metro","Janneys Ln","Seminary Rd",-1,1
+"3","Duke St","King St Metro","Eisenhower","Van Dorn Metro","Yoakum Pkwy","Beauregard St","Pentagon Metro",1,1
+"4","Beauregard St","Pentagon Metro","Glebe Rd","Shirlington","Park Place","Mark Center","Menokin Dr",1,1
+"5","Old Town Circulator","Braddock Metro","Cameron Mills Dr","Parkfairfax","Pentagon Metro","Glebe Rd","Shirlington",-1,-1
+"6","Beauregard St","Yoakum Pkwy","Van Dorn Metro","Whiting St","Duke St","King St Metro","Commonwealth Ave",1,1
+"7","Beauregard St","Pentagon Metro","Glebe Rd","Shirlington","Menokin Dr","Mark Center","Park Place",1,1
+"8","Park Place","Shirlington","Glebe Rd","Russell Rd","Braddock Metro","Cameron Mills Dr","Parkfairfax",-1,1
+"9","Beauregard St","Pentagon Metro","Glebe Rd","Shirlington","Menokin Dr","Mark Center","Seminary Rd",-1,-1
+"10","Eisenhower","Van Dorn Metro","Whiting St","Duke St","King St Metro","Commonwealth Ave","Mt Vernon Ave",1,-1
+"11","Russell Rd","Braddock Metro","Old Town Circulator","King St Metro","Eisenhower","Van Dorn Metro","Yoakum Pkwy",1,-1
+"12","Park Place","Mark Center","Menokin Dr","Shirlington","Glebe Rd","Pentagon Metro","Parkfairfax",-1,-1
+"13","Cameron Mills Dr","Parkfairfax","Pentagon Metro","Glebe Rd","Russell Rd","Braddock Metro","Old Town Circulator",1,-1
+"14","Duke St","Whiting St","Van Dorn Metro","Eisenhower","King St Metro","Janneys Ln","Seminary Rd",-1,1
+"15","Duke St","Whiting St","Van Dorn Metro","Eisenhower","King St Metro","Janneys Ln","Seminary Rd",-1,-1
+"16","Seminary Rd","Janneys Ln","King St Metro","Duke St","Whiting St","Van Dorn Metro","Yoakum Pkwy",1,1
+"17","Beauregard St","Pentagon Metro","Glebe Rd","Shirlington","Park Place","Mark Center","Menokin Dr",-1,-1
+"18","King St Metro","Janneys Ln","Seminary Rd","Mark Center","Park Place","Shirlington","Menokin Dr",-1,1
+"19","Cameron Mills Dr","Braddock Metro","Old Town Circulator","King St Metro","Eisenhower","Van Dorn Metro","Whiting St",1,-1
+"20","Duke St","Whiting St","Van Dorn Metro","Eisenhower","King St Metro","Commonwealth Ave","Mt Vernon Ave",-1,1
+"21","King St Metro","Janneys Ln","Seminary Rd","Mark Center","Park Place","Shirlington","Menokin Dr",-1,1
+"22","Mt Vernon Ave","Commonwealth Ave","King St Metro","Duke St","Whiting St","Van Dorn Metro","Yoakum Pkwy",1,-1
+"23","Park Place","Shirlington","Glebe Rd","Russell Rd","Braddock Metro","Cameron Mills Dr","Parkfairfax",-1,1
+"24","Eisenhower","King St Metro","Old Town Circulator","Braddock Metro","Russell Rd","Glebe Rd","Shirlington",-1,-1
+"25","Parkfairfax","Pentagon Metro","Glebe Rd","Shirlington","Park Place","Mark Center","Seminary Rd",-1,1
+"26","Janneys Ln","Seminary Rd","Mark Center","Park Place","Shirlington","Glebe Rd","Russell Rd",-1,-1
+"27","Mt Vernon Ave","Commonwealth Ave","King St Metro","Old Town Circulator","Braddock Metro","Cameron Mills Dr","Parkfairfax",1,1
+"28","Commonwealth Ave","King St Metro","Old Town Circulator","Braddock Metro","Russell Rd","Glebe Rd","Potomac Yd Ctr",-1,-1
+"29","Cameron Mills Dr","Braddock Metro","Old Town Circulator","King St Metro","Eisenhower","Van Dorn Metro","Yoakum Pkwy",-1,1
+"30","Beauregard St","Yoakum Pkwy","Van Dorn Metro","Eisenhower","King St Metro","Duke St","Whiting St",1,-1
+"31","Braddock Metro","Russell Rd","Glebe Rd","Shirlington","Park Place","Mark Center","Menokin Dr",1,-1
+"32","Russell Rd","Braddock Metro","Old Town Circulator","King St Metro","Eisenhower","Van Dorn Metro","Yoakum Pkwy",-1,1
+"33","Cameron Mills Dr","Parkfairfax","Pentagon Metro","Beauregard St","Yoakum Pkwy","Van Dorn Metro","Eisenhower",1,-1
+"34","King St Metro","Janneys Ln","Seminary Rd","Mark Center","Menokin Dr","Shirlington","Park Place",-1,-1
+"35","Cameron Mills Dr","Braddock Metro","Old Town Circulator","King St Metro","Eisenhower","Van Dorn Metro","Whiting St",1,-1
+"36","Duke St","Whiting St","Van Dorn Metro","Eisenhower","King St Metro","Commonwealth Ave","Mt Vernon Ave",-1,1
+"37","Braddock Metro","Russell Rd","Glebe Rd","Shirlington","Menokin Dr","Mark Center","Park Place",-1,1
+"38","Beauregard St","Yoakum Pkwy","Van Dorn Metro","Whiting St","Duke St","King St Metro","NVCC",-1,-1
+"39","Janneys Ln","Seminary Rd","Mark Center","Park Place","Shirlington","Glebe Rd","Russell Rd",1,1
+"40","Janneys Ln","King St Metro","Old Town Circulator","Braddock Metro","Russell Rd","Glebe Rd","Shirlington",1,1
+"41","Janneys Ln","King St Metro","Old Town Circulator","Braddock Metro","Russell Rd","Glebe Rd","Shirlington",-1,-1
+"42","Commonwealth Ave","King St Metro","Old Town Circulator","Braddock Metro","Russell Rd","Glebe Rd","Shirlington",-1,-1
+"43","Beauregard St","Yoakum Pkwy","Van Dorn Metro","Eisenhower","King St Metro","Duke St","Whiting St",-1,-1
+"44","Menokin Dr","Mark Center","Park Place","Shirlington","Glebe Rd","Pentagon Metro","Parkfairfax",1,-1
+"45","Eisenhower","Van Dorn Metro","Yoakum Pkwy","Beauregard St","Pentagon Metro","Glebe Rd","Shirlington",-1,1
+"46","Braddock Metro","Russell Rd","Glebe Rd","Shirlington","Menokin Dr","Mark Center","Park Place",-1,1
+"47","Mt Vernon Ave","Commonwealth Ave","King St Metro","Old Town Circulator","Braddock Metro","Cameron Mills Dr","Parkfairfax",-1,-1
+"48","Shirlington","Glebe Rd","Pentagon Metro","Beauregard St","Yoakum Pkwy","Van Dorn Metro","Whiting St",1,-1
+"49","Menokin Dr","Shirlington","Glebe Rd","Russell Rd","Braddock Metro","Cameron Mills Dr","Parkfairfax",1,-1
+"50","Russell Rd","Braddock Metro","Old Town Circulator","King St Metro","Eisenhower","Van Dorn Metro","Whiting St",1,1
